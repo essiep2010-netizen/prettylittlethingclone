@@ -56,26 +56,71 @@ header {
 .section2b {
     display: flex;
     margin-top: 20px;
-    gap: 35px;
-    padding-left: 200px;
-    font-size: 14px;
+    gap: 30px;
+    padding-left: 220px;
+    font-size: 13px;
+}
+
+
+.section3 {
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.section3 div {
+    height: 48px;
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section3 div :hover {
+    
 }
 
 .bl {
-    height: 48px;
     width: 112px;
 }
 
 .na {
-    height: 48px;
     width: 116px;
 }
 
 .c {
-    height: 48px;
     width: 90px;
 }
 
 .w {
+    width: 78px;
+}
 
+.d {
+    width: 82px;
+}
+
+.t {
+    width: 62px;
+}
+
+.a {
+    width: 100px;
+}
+
+.cj {
+    width: 133px;
+}
+
+.de {
+    width: 69px;
+}
+
+.ac {
+    width: 109px;
+}
+
+.b {
+    width: 76px;
 }
