@@ -209,3 +209,19 @@ header {
     height: 100%;
     width: 100%;
 }
+
+.section8 {
+    height: 192px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.section8a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    font-weight: 300;
+}
