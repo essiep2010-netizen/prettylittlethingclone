@@ -202,7 +202,7 @@ header {
 
 .section7 {
     height: 676px;
-    margin-top: 96px;
+    margin-top: 64px;
 }
 
 .section7 img {
@@ -223,5 +223,6 @@ header {
     justify-content: center;
     align-items: center;
     font-size: 22px;
-    font-weight: 300;
+    font-weight: 350;
+    color: #905C58;
 }
