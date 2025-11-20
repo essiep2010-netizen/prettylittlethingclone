@@ -8,10 +8,14 @@
 
 body {
     font-family: "Roboto", sans-serif;
+    background-color: white;
 }
 
 header {
     width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: white;
 }
 
 .section1 {
@@ -90,9 +94,6 @@ header {
     align-items: center;
 }
 
-.section3 div :hover {
-}
-
 .bl {
     width: 112px;
 }
@@ -135,6 +136,10 @@ header {
 
 .b {
     width: 76px;
+}
+
+main {
+    margin-top: 191px;
 }
 
 .section4 {
