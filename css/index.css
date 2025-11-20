@@ -297,11 +297,9 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: aquamarine;
 }
 
 .au {
-    background-color: palegreen;
     height: 24px;
     width: 1255px;
     display: flex;
@@ -310,7 +308,89 @@ header {
 }
 
 .note {
-    background-color: blue;
+    height: 80px;
+    width: 1255px;
+    font-size: 14px;
+    font-weight: 300;
     display: flex;
     justify-content: center;
+    align-items: center;
+    padding-left: 60px;
+    margin-bottom: 112px;
+}
+
+.section12 {
+    height: 342px;
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    font-weight: 200;
+}
+
+.section12a {
+    height: 100%;
+    width: 756px;
+    display: flex;
+    gap: 50px;
+}
+
+.l {
+    font-size: 15px;
+    font-weight: 295;
+}
+
+.help {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+.account {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+.social {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+.section13 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section13 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.u {
+    font-size: 13px;
+    font-weight: 250;
+    margin-top: 130px;
+    margin-bottom: 30px;
+    padding-right: 15px;
+}
+
+.uk {
+    padding-bottom: 5px;
+    padding-left: 15px;
+    box-shadow: 0 1px 0 0 black;
 }
