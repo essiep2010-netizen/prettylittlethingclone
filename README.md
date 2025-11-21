@@ -29,6 +29,8 @@ CSS3
 
 Font Awesome Icons
 
+Google Fonts
+
 📂 Project Structure
 project-folder/
 │── index.html
