@@ -383,7 +383,8 @@ main {
 
 .section13 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    gap: 400px;
 }
 
 .u {
